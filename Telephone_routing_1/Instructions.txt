@@ -1,0 +1,17 @@
+
+1. Copy the input file path first and past in main.py at filepath location.
+
+2. Run main.py 
+*********************************************************************
+
+If  you run .exe file 
+
+1. Wait 10 seconds and click on screen 
+
+2. Select input file
+
+3. Enter number on screen
+
+Note: Please see EXE_output.png for better understanding
+
+Run and enjoy !!!!

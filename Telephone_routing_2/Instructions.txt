@@ -1,0 +1,6 @@
+
+1. Copy the input file path first and past in main.py at filepath location.
+
+2. Run the Punkt file on windows
+
+Run and enjoy !!!!
